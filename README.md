@@ -1,2 +1,5 @@
 # hello-world
-Repository creation tutorial
+
+Hello, I'm Sam! 
+
+I am starting to learning CS50 and how to use GitHub.
